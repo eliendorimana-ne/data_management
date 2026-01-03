@@ -1176,7 +1176,7 @@ def main():
         
         st.markdown("""
         <div style='background: rgba(255,255,255,0.1); padding: 1rem; border-radius: 10px; margin-bottom: 1rem;'>
-        <p style='margin: 0; font-size: 0.9rem;'><strong>👨‍💻 Created by:</strong><br>Elie NDORIMANA</p>
+        <p style='margin: 0; font-size: 0.9rem;'><strong>👨‍💻 Created by:</strong><br>NDORIMANA Elie </p>
         </div>
         """, unsafe_allow_html=True)
         
@@ -1213,12 +1213,12 @@ def main():
         st.markdown("""
         <div style='text-align: center; font-size: 0.8rem; color: #a0aec0;'>
         <p>Version 1.0.0</p>
-        <p>© 2024 Richard Usengimana</p>
+        <p>© 2025  NDORIMANA Elie</p>
         </div>
         """, unsafe_allow_html=True)
     
     # Main content
-    st.markdown("<h1 style='text-align: center;'>Elie Data Cleaning & Visualization System</h1>", unsafe_allow_html=True)
+    st.markdown("<h1 style='text-align: center;'>NDORIMANA Elie Data Cleaning & Visualization System</h1>", unsafe_allow_html=True)
     st.markdown("<p style='text-align: center; font-size: 1.2rem; color: #4a5568; margin-bottom: 2rem;'>Professional tool for automated data cleaning and exploration</p>", unsafe_allow_html=True)
     
     # Tabs
